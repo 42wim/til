@@ -2,7 +2,12 @@
 Today I learned
 
 ## categories
+* [Mysql](#mysql)
 * [Postfix](#postfix)
+
+### mysql
+
+- [Password expiration](mysql/password_expiration.md)
 
 ### postfix
 
